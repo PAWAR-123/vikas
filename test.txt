@@ -1,0 +1,5 @@
+name:pawar vikas ramesh
+Roll no:19
+Branch:IT
+College name:SIT
+this is the git practical wad exam
